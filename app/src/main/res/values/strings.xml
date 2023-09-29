@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Art Space</string>
+    <string name="mbappe">Mbappé</string>
+    <string name="mbappe_year">2018</string>
+    <string name="mbappe_description">Como no vas a fichar por el Madrid</string>
+    <string name="messi">Messi</string>
+    <string name="messi_description">El mejor de todos los tiempos, se acabó el debate</string>
+    <string name="messi_year">2012</string>
+    <string name="cristiano">Cristiano Ronaldo</string>
+    <string name="cristiano_year">2014</string>
+    <string name="cristiano_description">El segundo mejor</string>
+    <string name="neymar">Neymar</string>
+    <string name="neymar_year">2014</string>
+    <string name="neymar_description">El que pudo ser y no fue </string>
+    <string name="bale">Gareth Bale</string>
+    <string name="bale_year">2017</string>
+    <string name="bale_description">El golfista que sus tiempos libres ganaba champions</string>
+    <string name="benzema">Karim Benzema</string>
+    <string name="benzema_year">2017</string>
+    <string name="benzema_description">Su prime duró una temporada</string>
+    <string name="salah">Mohamed Salah</string>
+    <string name="salah_year">2019</string>
+    <string name="salah_description">No se la pasa a lucho</string>
+    <string name="modric">Luka Modric</string>
+    <string name="modric_year">2018</string>
+    <string name="modirc_description">El único que le pudo quitar el balón de oro a messi y cristiano</string>
+    <string name="kevin">Kevin De Bruyne</string>
+    <string name="kevin_year">2018</string>
+    <string name="kevin_description">Como le pega de afuera</string>
+    <string name="kane">Harry Kane</string>
+    <string name="kane_year">2019</string>
+    <string name="kane_description">Voy a lograr un título antes que él</string>
+    <string name="my_name">David Andrés Moreno  2226590</string>
+    <string name="next">Siguiente</string>
+    <string name="previous">Anterior</string>
+</resources>
